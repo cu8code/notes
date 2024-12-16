@@ -1,0 +1,1 @@
+The pages are designed to be usable inside obsidian so somethings could be broken if you are viewing from GitHub!
