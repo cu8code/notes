@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "readme"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Index"
+              "title": "Backlinks for readme"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Index"
+              "title": "Outgoing links from readme"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "readme.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Index"
+              "title": "Outline of readme"
             }
           }
         ]
@@ -181,7 +181,7 @@
   "lastOpenFiles": [
     "blogs/React Internals.md",
     "diary/My story.md",
-    "Index.md",
+    "readme.md",
     "blogs",
     "diary",
     "2024-12-15.md",
